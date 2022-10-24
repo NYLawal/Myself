@@ -4,4 +4,4 @@ Holds a Masters Degree
 Loves Designing
 Loves coding and debugging
 Married with children
-Presently learning software 
+A software engineer in the making!
